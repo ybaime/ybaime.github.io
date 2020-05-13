@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Yocheved Gilad"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Staff Data Scientist with a pssion for data"
+  bio              : "Staff Data Scientist with a passion for data"
   location         : "Houston, TX"
   email            :
   links:
@@ -112,7 +112,7 @@ author:
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "ybaime"
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
@@ -287,4 +287,3 @@ defaults:
     values:
       layout: single
       author_profile: true
- 
